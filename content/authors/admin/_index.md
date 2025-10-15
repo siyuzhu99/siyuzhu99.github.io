@@ -3,7 +3,7 @@
 title: Siyu Zhu
 
 # Name pronunciation (optional)
-name_pronunciation: Zhu Siyu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Siyu
@@ -38,7 +38,7 @@ profiles:
     url: https://github.com/siyuzhu99
   - icon: brands/linkedin
     url: https://www.linkedin.com/    # 可换成你的 LinkedIn
-  - icon: brands/researchgate
+  - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Siyu-Zhu-22/research
 
 interests:
