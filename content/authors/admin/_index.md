@@ -37,7 +37,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/siyuzhu99
   - icon: brands/linkedin
-    url: https://www.linkedin.com/    # 可换成你的 LinkedIn
+    url: https://www.linkedin.com/feed/   # 可换成你的 LinkedIn
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Siyu-Zhu-22/research
 
@@ -119,4 +119,4 @@ awards:
 
 ## About Me
 
-Siyu Zhu is a Ph.D. candidate in Applied Linguistics at The Hong Kong Polytechnic University. His research focuses on online multimodal reading, L2 Chinese reading and writing, educational technology, and person-centered quantitative analysis. He has published extensively in SSCI-indexed journals (as first and corresponding author) and presented at major international conferences including AERA and EARLI. Siyu is also an active reviewer for leading journals such as **Computers & Education**, **System**, and **Assessing Writing**.
+Siyu Zhu is a Postdoc Research Fellow at The Hong Kong Polytechnic University. Her research focuses on online multimodal reading, L2 Chinese reading and writing, educational technology, and person-centered quantitative analysis. She has published 20+ in SSCI-indexed journals and presented at major international conferences including AERA and EARLI. Siyu is also an active reviewer for leading journals such as *Computers & Education*, *System*, and *Assessing Writing*.
