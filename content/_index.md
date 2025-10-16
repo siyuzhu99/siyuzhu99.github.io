@@ -35,7 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My current research interests focus on literacy (i.e., reading and writing) development assessment, including (1) AI-assisted writing instruction and assessment, (2) the role of psychological mechanisms in literacy development and assessment, and (3) online multimodal reading assessment. My research subjects include Chinese L1 and L2 learners as well as English L2 learners, with a primary focus on K-12 students, while also covering undergraduate students, graduate students, and pre-service teachers. Based on my research interests, I have participated in multiple research projects supported by schools and government agencies and have produced a substantial body of research publications. 
+        My current research interests focus on literacy (i.e., reading and writing) development assessment, including 
+        
+        1. AI-assisted writing instruction and assessment;
+        2. the role of psychological mechanisms in literacy development and assessment;
+        3. online multimodal reading assessment. 
+        
+        My research subjects include Chinese L1 and L2 learners as well as English L2 learners, with a primary focus on K-12 students, while also covering undergraduate students, graduate students, and pre-service teachers. Based on my research interests, I have participated in multiple research projects supported by schools and government agencies and have produced a substantial body of research publications. 
 
         Please reach out to collaborate 😃
     design:
