@@ -60,7 +60,18 @@ education:
     date_end: 2021-12-31
     summary: |
       GPA: 4.7/5 (Highest Distinction). Core courses included Chinese Linguistics, Pragmatics and Politeness, Comparative Grammar between English and Chinese, Contemporary Research in Chinese Language.
-
+  - area: B.A. Teaching Chinese as a Second Language
+    institution: Southwest Jiaotong University
+    date_start: 2016-09-01
+    date_end: 2020-06-30
+    summary: |
+      GPA: 3.80/4.0 (Rank: 3/49). Core courses included Ancient Chinese, Modern Chinese Language, Traditional Chinese Linguistics, Education Theory.
+  - area: Exchange Student in Chinese Language and Literature
+    institution: Soochow University (Taiwan)
+    date_start: 2018-02-01
+    date_end: 2018-06-30
+    summary: |
+      GPA: 4.0/4.0
 
 work:
   - position: Research Assistant / Project Member
@@ -108,4 +119,4 @@ awards:
 
 ## About Me
 
-I am a Postdoctoral Research Fellow at The Hong Kong Polytechnic University. My research centers on Chinese literacy development and assessment in the AI-driven and multimodal era. Within this broad theme, I am particularly interested in the psychological mechanisms underlying literacy processes. My work examines both first-language and second-language learners of Chinese, ranging from K–12 students to graduate learners. Methodologically, I specialize in quantitative approaches—especially person-centered analyses—and I also place high value on qualitative inquiry to capture the complexity of literacy behaviors in real contexts. I also actively serve as a reviewer for leading journals such as *Computers & Education*, *System*, and *Assessing Writing*.
+I am a Postdoctoral Research Fellow at The Hong Kong Polytechnic University. My research centers on Chinese literacy development and assessment in the AI-driven and multimodal era. Within this broad theme, I am particularly interested in the psychological mechanisms underlying literacy processes. My work examines both first-language and second-language learners of Chinese, ranging from K–12 students to graduate learners. Methodologically, I specialize in quantitative approaches—especially person-centered analyses—and I also place high value on qualitative inquiry to capture the complexity of literacy behaviors in real contexts. Moreover, I actively serve as a reviewer for 9 SSCI journals  such as *Computers & Education*, *System*, *Assessing Writing* and etc.
