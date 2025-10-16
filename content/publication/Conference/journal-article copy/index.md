@@ -2,7 +2,7 @@
 title: " Profiling the differences in strategy use in online multimodal reading: Associations with self-efficacy and reading task performance"
 authors:
 - admin
-- ZHU Xinhua
+- Zhu Xinhua
 - Yao Yuan
 - Cheong Choo Mui
 date: "2025-09-01T00:00:00Z"
