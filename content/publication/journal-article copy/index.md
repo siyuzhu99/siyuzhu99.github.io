@@ -1,12 +1,13 @@
 ---
-title: " Profiling the differences in strategy use in online multimodal reading: Associations with self-efficacy and reading task performance"
+title: " What they provide and how: An intervention study on pre-service teachers’ GenAI-assisted writing feedback"
 authors:
 - admin
-- Zhu Xinhua
-- Yao Yuan
-- Cheong Choo Mui
-date: "2025-08-19T00:00:00Z"
-doi: "Studies in Educational Evaluation"
+- Jialin Li
+- Yuan Yao
+- Yi Guan
+- Xinhua Zhu
+date: "2025-06-17T00:00:00Z"
+doi: "10.1016/j.iheduc.2025.101040"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Studies in Educational Evaluation, 87*(101507)"
+publication: "*The Internet and Higher Education, 87*(101507)"
 publication_short: ""
 
 abstract: In today’s digital era, students must use effective strategies to comprehend multimodal texts online. International language curriculum and assessment programs (e.g., PIRLS and PISA) have advanced to evaluate students’ reading performance in this regard. However, research is lacking on how these strategies relate to reading performance, especially in assessments. Existing literature has also overlooked the role of psychological factors, such as self-efficacy. This study addresses these gaps with 280 fourth-grade students in Hong Kong answering a questionnaire and an online multimodal reading task. Latent profile analysis was used, and three distinct profiles of the strategy use were found. Further analysis revealed positive but not necessarily significant relationships between reading strategy use profiles and reading performance. Varying roles of self-efficacy beliefs was also found to influence students’reading strategy use profiles. The study concludes with pedagogical implications for fostering competent multimodal readers and the theoretical contribution to the literature.
@@ -26,7 +27,10 @@ abstract: In today’s digital era, students must use effective strategies to co
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Online Multimodal Reading Assessment
+- AI-assisted writing instruction
+- Wrtiting feedback
+- Teacher education
+
 featured: false
 
 # links:
@@ -64,4 +68,4 @@ slides: example
 ---
 
 
-[Read the paper through publisher](https://www.sciencedirect.com/science/article/abs/pii/S0191491X25000641).
+[Read the paper through publisher](https://linkinghub.elsevier.com/retrieve/pii/S1096751625000491).
