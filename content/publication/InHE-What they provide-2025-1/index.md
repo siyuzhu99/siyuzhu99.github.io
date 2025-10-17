@@ -1,5 +1,5 @@
 ---
-title: " What they provide and how: An intervention study on pre-service teachers’ GenAI-assisted writing feedback"
+title: "What they provide and how: An intervention study on pre-service teachers’ GenAI-assisted writing feedback"
 authors:
 - admin
 - Jialin Li
@@ -18,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Internet and Higher Education, 87*(101507)"
+publication: "*The Internet and Higher Education, 67*(101040)"
 publication_short: ""
 
-abstract: In today’s digital era, students must use effective strategies to comprehend multimodal texts online. International language curriculum and assessment programs (e.g., PIRLS and PISA) have advanced to evaluate students’ reading performance in this regard. However, research is lacking on how these strategies relate to reading performance, especially in assessments. Existing literature has also overlooked the role of psychological factors, such as self-efficacy. This study addresses these gaps with 280 fourth-grade students in Hong Kong answering a questionnaire and an online multimodal reading task. Latent profile analysis was used, and three distinct profiles of the strategy use were found. Further analysis revealed positive but not necessarily significant relationships between reading strategy use profiles and reading performance. Varying roles of self-efficacy beliefs was also found to influence students’reading strategy use profiles. The study concludes with pedagogical implications for fostering competent multimodal readers and the theoretical contribution to the literature.
+abstract: Providing effective writing feedback to students could promote students’ writing development. However, offering high-quality feedback remains a significant challenge for pre-service teachers (PSTs). Recent advancements in GenAI technology may offer solutions to this issue. The study examines the influence of a short-term teaching intervention on the feedback levels and feedback types of PSTs’ ChatGPT-assisted feedback on students’ written compositions, utilizing an explanatory sequential mixed-method design with 30 PSTs. The quantitative results revealed significant improvements in both feedback levels (i.e., higher-level feedback issues including ideas and elaboration and style) and feedback types (e.g., explanations and general suggestions). Additionally, the findings highlighted specific strategies employed by PSTs when considering levels and types in combination. Subsequent interviews identified the underlying influential factors of these improvements, namely the improvements in ChatGPT usage skills (i.e., prompt engineering and source use) and a deeper understanding of the feedback process (i.e., introspection). By demonstrating how short-term teaching interventions can leverage PST’s ability to use GenAI tools to provide writing feedback, this research advances the theoretical understanding of human-AI collaboration in the context of writing and provides pedagogical insights for teacher training programs.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,7 +31,7 @@ tags:
 - Wrtiting feedback
 - Teacher education
 
-featured: false
+featured: False
 
 # links:
 # - name: ""
@@ -68,4 +68,4 @@ slides: example
 ---
 
 
-[Read the paper through publisher](https://linkinghub.elsevier.com/retrieve/pii/S1096751625000491).
+[Read the paper through publisher](https://www.sciencedirect.com/science/article/abs/pii/S1096751625000491).
