@@ -97,11 +97,11 @@ skills:
       - name: SPSS, Mplus, R, CMA, NVivo, LaTeX
         percent: 95
 
-languages:
-  - name: Mandarin (Native)
-    percent: 100
-  - name: English (IELTS 7.5)
-    percent: 95
+# #languages:
+#   - name: Mandarin (Native)
+#     #percent: 100
+#   - name: English (IELTS 7.5)
+#     #percent: 95
 
 awards:
   - title: Finalist for Best Research Student Award
