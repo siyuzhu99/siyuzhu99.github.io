@@ -41,11 +41,11 @@ profiles:
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Siyu-Zhu-22/research
 
-interests:
-  - Online multimodal reading
-  - L2 Chinese reading and writing
-  - Educational technology
-  - Person-centered analysis
+# interests:
+#   - Online multimodal reading
+#   - L2 Chinese reading and writing
+#   - Educational technology
+#   - Person-centered analysis
 
 education:
   - area: Ph.D. Applied Linguistics
