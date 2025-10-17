@@ -47,31 +47,31 @@ profiles:
 #   - Educational technology
 #   - Person-centered analysis
 
-education:
-  - area: Ph.D. Applied Linguistics
-    institution: The Hong Kong Polytechnic University
-    date_start: 2022-09-01
-    date_end: 2025-06-30
-    summary: |
-      Thesis: *Individual Profiles in Online Reading: Relationships between Default Psychological Stance, Strategies, and Performance* [Excellent]. GPA: 3.82/4.3
-  - area: M.A. Chinese Culture and Language
-    institution: National University of Singapore
-    date_start: 2020-08-01
-    date_end: 2021-12-31
-    summary: |
-      GPA: 4.7/5 (Highest Distinction). Core courses included Chinese Linguistics, Pragmatics and Politeness, Comparative Grammar between English and Chinese, Contemporary Research in Chinese Language.
-  - area: B.A. Teaching Chinese as a Second Language
-    institution: Southwest Jiaotong University
-    date_start: 2016-09-01
-    date_end: 2020-06-30
-    summary: |
-      GPA: 3.80/4.0 (Rank: 3/49). Core courses included Ancient Chinese, Modern Chinese Language, Traditional Chinese Linguistics, Education Theory.
-  - area: Exchange Student in Chinese Language and Literature
-    institution: Soochow University (Taiwan)
-    date_start: 2018-02-01
-    date_end: 2018-06-30
-    summary: |
-      GPA: 4.0/4.0
+# education:
+#   - area: Ph.D. Applied Linguistics
+#     institution: The Hong Kong Polytechnic University
+#     date_start: 2022-09-01
+#     date_end: 2025-06-30
+#     summary: |
+#       Thesis: *Individual Profiles in Online Reading: Relationships between Default Psychological Stance, Strategies, and Performance* [Excellent]. GPA: 3.82/4.3
+#   - area: M.A. Chinese Culture and Language
+#     institution: National University of Singapore
+#     date_start: 2020-08-01
+#     date_end: 2021-12-31
+#     summary: |
+#       GPA: 4.7/5 (Highest Distinction). Core courses included Chinese Linguistics, Pragmatics and Politeness, Comparative Grammar between English and Chinese, Contemporary Research in Chinese Language.
+#   - area: B.A. Teaching Chinese as a Second Language
+#     institution: Southwest Jiaotong University
+#     date_start: 2016-09-01
+#     date_end: 2020-06-30
+#     summary: |
+#       GPA: 3.80/4.0 (Rank: 3/49). Core courses included Ancient Chinese, Modern Chinese Language, Traditional Chinese Linguistics, Education Theory.
+#   - area: Exchange Student in Chinese Language and Literature
+#     institution: Soochow University (Taiwan)
+#     date_start: 2018-02-01
+#     date_end: 2018-06-30
+#     summary: |
+#       GPA: 4.0/4.0
 
 work:
   - position: Research Assistant / Project Member
