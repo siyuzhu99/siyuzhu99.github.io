@@ -24,3 +24,6 @@ node_modules/
 
 # Hugo environment files
 .env
+assets/jsconfig.json
+hugo_stats.json
+go.sum

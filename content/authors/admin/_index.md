@@ -38,7 +38,7 @@ profiles:
     url: https://github.com/siyuzhu99
   - icon: brands/linkedin
     url: https://www.linkedin.com/feed/   # 可换成你的 LinkedIn
-  - icon: custom/researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Siyu-Zhu-22/research
 
 # interests:

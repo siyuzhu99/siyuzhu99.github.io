@@ -30,6 +30,8 @@ sections:
       #     size: cover
       #     position: center
       #     parallax: false
+      avatar:
+        size: medium
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
