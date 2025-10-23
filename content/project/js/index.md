@@ -1,6 +1,6 @@
 ---
 title: Online Mulitimodal Reading Assessment
-summary: Measures how learners integrate and comprehend information across multiple modes such as text, images, and videos in an online context.
+summary: Measures how learners integrate and comprehend information across online multimodal texts.
 date: 2025-10-01
 type: docs
 math: false

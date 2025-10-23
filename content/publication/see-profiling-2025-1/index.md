@@ -27,7 +27,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Online Multimodal Reading Assessment
-featured: false
+featured: False
 
 # links:
 # - name: ""
