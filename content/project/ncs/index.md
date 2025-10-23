@@ -1,141 +1,39 @@
 ---
-title: AI-Assisted Writing Instruction and Assessment
-summary: Investigate how Generative AI can be integrated into writing instruction and used leveraged to support writing assessment.
-date: 2025-10-21
+title: Tracking L2 Chinese Reading Development
+summary: Examining the Mechanisms and Characteristics of Chinese Reading Development among Immigrant Children in Hong Kong.
+date: 2025-09-10
 type: docs
 math: false
-tags:
-  -GenAI
-  -Writing
+
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+This research is being pursued under the guidance and collaboration of Prof. Zhu Xinhua and Prof. Chan Shui-Duen.
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## Reseach Background
+The introduction of the bi-literacy and trilingualism policy in Hong Kong in 1997 created unprecedented challenges for non-Chinese speaking (NCS) students learning Chinese as a second language. Research has documented that NCS students comprehend only approximately 70% of the teaching syllabus and consistently underperform in reading comprehension compared to their native-speaking peers. This achievement gap is particularly concerning given that reading proficiency serves as the cornerstone of overall academic success, and early elementary years represent a critical window for reading development.
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+Despite the well-established importance of early reading development and the documented challenges facing NCS learners, there remains a significant research gap regarding the reading performance and underlying psychological factors that influence young children learning Chinese as a second language. Understanding the mechanisms and characteristics of Chinese reading development among immigrant children is essential for developing effective instructional interventions and supporting educational equity in Hong Kong's increasingly diverse linguistic landscape. This research addresses this critical need by examining how NCS students develop Chinese reading skills during this pivotal developmental period.
 
-## Video
+## Reseach Focuses
+**The Impact of Psychological Mechanisms on Chinese Reading Development in School-Age Children**
+This research examines how key psychological factors—including intrinsic and extrinsic motivation, ideal L2 self, reading engagement, and self-beliefs—influence Chinese reading development among non-Chinese speaking students in Hong Kong. A particular emphasis is placed on comparative analyses between L2 and L1 Chinese learners to identify distinct developmental patterns and challenges. By uncovering these psychological mechanisms, this work aims to inform targeted interventions that address the specific needs of second language readers.
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+**Shaping Chinese Reading Psychology and Performance: The Role of Family Environment and Parental Involvement**
+This project investigates how family dynamics shape Chinese reading development among immigrant children from a longitudinal perspective. The research examines how parental attitudes toward Chinese learning, the quality and nature of parental involvement, and the broader home literacy environment influence students' motivation and self-beliefs in L2 Chinese reading. A key focus is understanding the moderating effects of family factors on reading performance trajectories over time, revealing how sustained parental support or lack thereof impacts long-term reading development. 
 
-{{< youtube D2vj0WcvH5c >}}
+![alt text](image1.png)
 
-**Youtube**:
+## Related Papers
+<p style="text-indent: -2em; padding-left: 2em;">
+<strong>Zhu, S.</strong>, Yao, Y., Chan, S., & Zhu, X. (2024). Parental involvement influences the relationship between children's L2 Chinese reading motivation and reading performance: A longitudinal person-centred moderation analysis. <em>Journal of Multilingual and Multicultural Development</em>, 1–19. <span style="color: blue;">[SSCI, Q1, IF = 3.7]</span> https://doi.org/10.1080/01434632.2024.2365947
+</p>
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+<p style="text-indent: -2em; padding-left: 2em;">
+<strong>Zhu, S.</strong>, Yao, Y., Chan, S.-D., & Zhu, X. (2024). The effect of self-concept and self-efficacy on learning engagement and subsequent reading performance: The difference between L1 and L2 reading in first-grade students. <em>Early Education and Development</em>, 1–18. <span style="color: blue;">[SSCI, Q1, IF = 3.0]</span> https://doi.org/10.1080/10409289.2024.2338698
+</p>
 
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
-
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
-
-Example **math block**:
-
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+<p style="text-indent: -2em; padding-left: 2em;">
+Zhu, X., Chan, S., Yao, Y., & <strong>Zhu, S.*</strong> (corresponding author)(2023). The different effects of the ideal L2 self and intrinsic motivation on reading performance via engagement among young Chinese second-language learners. <em>International Review of Applied Linguistics in Language Teaching (IRAL)</em>. <span style="color: blue;">[SSCI, Q1, IF = 2.1]</span> https://doi.org/10.1515/iral-2022-0189
+</p>
