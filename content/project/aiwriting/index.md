@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Writing Instruction and Assessment
 summary: Investigate how Generative AI can be integrated into writing instruction and used leveraged to support writing assessment.
-date: 2025-10-24
+date: 2025-10-21
 type: docs
 math: false
 tags:
