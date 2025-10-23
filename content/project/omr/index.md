@@ -4,8 +4,6 @@ summary: Measures how learners integrate and comprehend information across onlin
 date: 2025-10-01
 type: docs
 math: false
-tags:
-  - Multimodal Reading
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
@@ -21,7 +19,6 @@ Recognizing this evolution, the Progress in International Reading Literacy Study
 ## Research Focus
 
 **1. Psychological Mechanisms and thier Relationships with Reading Performance**
-
 This focus takes a person-centered approach to investigate the cognitive and psychological processes students engage during online multimodal reading. Specifically, it examines how motivational factors (such as goal orientations, emotions and self-efficacy) and cognitive factors (such as reading strategies) relate to online reading performance, with particular attention to individual differences among learners.  This is also the theme of my 
 [doctoral dissertation](https://research.polyu.edu.hk/en/studentTheses/individual-profiles-in-online-reading-relations-between-default-p/).
 
@@ -31,7 +28,6 @@ This focus takes a person-centered approach to investigate the cognitive and psy
 </div>
 
 **2. Technology-Enhanced Self-Directed Learning**
-
 This focus will translate findings from the focus 1 into practice by developing an AI-powered self-directed learning platform. By integrating AI technology, this platform will help students enhance their online reading strategies, regulate positive psychological states, and ultimately improve their online multimodal reading performance. This work will represent the practical application of research insights to support learners' autonomous development in digital literacy.
 ![alt text](image-3.png)
 
@@ -50,3 +46,6 @@ This focus will translate findings from the focus 1 into practice by developing 
 <strong>Zhu, S.</strong>, Yao, Y., Cheong, C., & Zhu, X. (2025 expected). Latent psychological profiles and their effects on strategy use and performance in online multimodal reading tasks: A mixed-methods investigation. <em>Learning and Instruction</em>. (Under review). 
 </p>
 
+<p style="text-indent: -2em; padding-left: 2em;">
+<strong>Zhu, S.</strong>, Zhu, X., Li, J., Sun, Y., & Ma, H. (2025 expected). Emotional profiles and their effects on self-efficacy, strategy use, and performance in multimodal reading among primary school students. <em>Metacognition and Learning</em>. (Under review). <span style="color: blue;">
+</p>
