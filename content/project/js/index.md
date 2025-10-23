@@ -10,41 +10,31 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+This research is conducted under the supervision of Prof. Zhu Xinhua and in collaboration with Prof. Cheong ChooMui from the University of Hong Kong.
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## Background
+The digital age has fundamentally transformed literacy. With the proliferation of online resources and user-generated content, multimodal texts combining images, videos, and written content have become ubiquitous in our daily information consumption. Modern literacy now extends beyond traditional reading to include the ability to navigate, comprehend, and meaningfully interact with digital technology.
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+Recognizing this evolution, the Progress in International Reading Literacy Study developed the e-PIRLS assessment in 2016 to evaluate students' online reading abilities through simulated web browsing experiences. Set to be implemented worldwide in 2026 across 60 participating countries and regions including Hong Kong, this initiative underscores that effective online reading has become an essential 21st-century skill.
 
-## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+## Research Focus
 
-{{< youtube D2vj0WcvH5c >}}
+**1. Psychological Mechanisms and thier Relationships with Reading Performance**
 
-**Youtube**:
+This focus takes a person-centered approach to investigate the cognitive and psychological processes students engage during online multimodal reading. Specifically, it examines how motivational factors (such as goal orientations, emotions and self-efficacy) and cognitive factors (such as reading strategies) relate to online reading performance, with particular attention to individual differences among learners.  This is also the theme of my 
+[doctoral dissertation](https://research.polyu.edu.hk/en/studentTheses/individual-profiles-in-online-reading-relations-between-default-p/).
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+**2. Technology-Enhanced Self-Directed Learning**
 
-**Bilibili**:
+We explore innovative ways to leverage technology to support students' development as independent learners. This research focuses on designing and implementing self-directed learning approaches that empower students to improve their online multimodal reading performance autonomously and effectively.
 
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
 
-**Video file**
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
-    {{</* video src="my_video.mp4" controls="yes" */>}}
 
-## Podcast
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
 
 ## Test students
 
