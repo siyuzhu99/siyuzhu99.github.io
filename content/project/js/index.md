@@ -1,7 +1,7 @@
 ---
 title: Online Mulitimodal Reading Assessment
 summary: Measures how learners integrate and comprehend information across multiple modes such as text, images, and videos in an online context.
-date: 2025-01-01
+date: 2025-10-01
 type: docs
 math: false
 tags:
@@ -25,106 +25,28 @@ Recognizing this evolution, the Progress in International Reading Literacy Study
 This focus takes a person-centered approach to investigate the cognitive and psychological processes students engage during online multimodal reading. Specifically, it examines how motivational factors (such as goal orientations, emotions and self-efficacy) and cognitive factors (such as reading strategies) relate to online reading performance, with particular attention to individual differences among learners.  This is also the theme of my 
 [doctoral dissertation](https://research.polyu.edu.hk/en/studentTheses/individual-profiles-in-online-reading-relations-between-default-p/).
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="image.png" alt="图片1" width="45%">
+  <img src="image-1.png" alt="图片2" width="45%">
+</div>
+
 **2. Technology-Enhanced Self-Directed Learning**
 
-We explore innovative ways to leverage technology to support students' development as independent learners. This research focuses on designing and implementing self-directed learning approaches that empower students to improve their online multimodal reading performance autonomously and effectively.
+This focus will translate findings from the focus 1 into practice by developing an AI-powered self-directed learning platform. By integrating AI technology, this platform will help students enhance their online reading strategies, regulate positive psychological states, and ultimately improve their online multimodal reading performance. This work will represent the practical application of research insights to support learners' autonomous development in digital literacy.
+![alt text](image-3.png)
 
+## Related Papers
+**📑 Published**
+<p style="text-indent: -2em; padding-left: 2em;">
+<strong>Zhu, S.</strong>, Zhu, X., Yao, Y., & Cheong, C. (2025). Profiling the differences in strategy use in online multimodal reading: Associations with self-efficacy and reading task performance. <em>Studies in Educational Evaluation</em>, <em>87</em>, 101507. <span style="color: blue;">[SSCI, Q1, IF = 3.7]</span> https://doi.org/10.1016/j.stueduc.2025.101507
+</p>
 
+**✏️ Submitted**
+<p style="text-indent: -2em; padding-left: 2em;">
+<strong>Zhu, S.</strong>, Cheong, C., & Zhu, X. (2025 expected). The reciprocal relationships between anxiety, self-efficacy, and online multimodal reading performance: Evidence from a three-wave multiple-indicators random intercept cross-lagged model. <em> Contemporary Educational Psychology</em>. (Under review). <span style="color: blue;">
+</p>
 
+<p style="text-indent: -2em; padding-left: 2em;">
+<strong>Zhu, S.</strong>, Yao, Y., Cheong, C., & Zhu, X. (2025 expected). Latent psychological profiles and their effects on strategy use and performance in online multimodal reading tasks: A mixed-methods investigation. <em>Learning and Instruction</em>. (Under review). 
+</p>
 
-
-
-
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
-
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
-
-Example **math block**:
-
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
