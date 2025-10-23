@@ -1,11 +1,12 @@
 ---
 title: AI-Assisted Writing Instruction and Assessment
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+summary: Investigate how Generative AI can be integrated into writing instruction and used leveraged to support writing assessment.
+date: 2025-10-24
 type: docs
 math: false
 tags:
-  - Python
+  -GenAI
+  -Writing
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
