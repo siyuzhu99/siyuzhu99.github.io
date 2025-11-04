@@ -1,5 +1,5 @@
 ---
-title: Online Mulitimodal Reading Assessment
+title: Online Multimodal Reading Assessment
 summary: Measures how learners integrate and comprehend information across online multimodal texts.
 date: 2025-10-01
 type: docs
