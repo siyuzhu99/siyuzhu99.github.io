@@ -32,19 +32,20 @@ paginate: 200
 
 ### Journal Articles (as first/corresponding author)
 
-#### 2025
-
 <ol>
 <li><strong>Zhu, S.</strong>, Zhu, X., Yao, Y., & Cheong, C. (2025). Profiling the differences in strategy use in online multimodal reading: Associations with self-efficacy and reading task performance. <em>Studies in Educational Evaluation</em>, <em>87</em>, 101507. <span style="color: blue;">[SSCI, Q1, IF = 3.7]</span> <a href="https://doi.org/10.1016/j.stueduc.2025.101507">https://doi.org/10.1016/j.stueduc.2025.101507</a></li>
 
 <li><strong>Zhu, S.</strong>, Li, J., Yao, Y., Guan, Y., & Zhu, X. (2025). What they give and how they give: An intervention study on pre-service teachers' writing feedback using generative AI. <em>The Internet and Higher Education</em>, 101040. <span style="color: blue;">[SSCI, Q1, IF = 8.1]</span> <a href="https://doi.org/10.1016/j.iheduc.2025.101040">https://doi.org/10.1016/j.iheduc.2025.101040</a></li>
 
 <li><strong>Zhu, S.</strong>, Li, Q., Yao, Y., Li, J., & Zhu, X. (2025). Improving writing feedback quality and self-efficacy of pre-service teachers in Gen-AI contexts: An experimental mixed-method design. <em>Assessing Writing</em>, <em>66</em>, 100960. <span style="color: blue;">[SSCI, Q1, IF = 5.6]</span> <a href="https://doi.org/10.1016/j.asw.2025.100960">https://doi.org/10.1016/j.asw.2025.100960</a></li>
+<li>Zhu, X., Liu, Y., <strong>Zhu, S.*</strong> (corresponding author). (2025). An empirical study on the construct of high school students' integrated writing ability. <em>China Examinations</em>, <em>4</em>, 60–72. <span style="color: blue;">[CSSCI Extension]</span></li>
+
+<li>Zhu, X., Chan, S., <strong>Zhu, S.*</strong> (corresponding author). (2025). Differences between L1 and L2 integrated writing tasks in international Chinese examinations: A directed content analysis. <em>Journal of Chinese Language Education</em>, <em>20</em>(1), 54–81. <span style="color: blue;">[CSSCI Oversea]</span></li>
 </ol>
 
 #### 2024
 
-<ol start="4">
+<ol start="6">
 <li><strong>Zhu, S.</strong>, Yao, Y., Chan, S., & Zhu, X. (2024). Parental involvement influences the relationship between children's L2 Chinese reading motivation and reading performance: A longitudinal person-centred moderation analysis. <em>Journal of Multilingual and Multicultural Development</em>, 1–19. <span style="color: blue;">[SSCI, Q1, IF = 3.7]</span> <a href="https://doi.org/10.1080/01434632.2024.2365947">https://doi.org/10.1080/01434632.2024.2365947</a></li>
 
 <li><strong>Zhu, S.</strong>, Yao, Y., Chan, S.-D., & Zhu, X. (2024). The effect of self-concept and self-efficacy on learning engagement and subsequent reading performance: The difference between L1 and L2 reading in first-grade students. <em>Early Education and Development</em>, 1–18. <span style="color: blue;">[SSCI, Q1, IF = 3.0]</span> <a href="https://doi.org/10.1080/10409289.2024.2338698">https://doi.org/10.1080/10409289.2024.2338698</a></li>
@@ -54,15 +55,13 @@ paginate: 200
 
 #### 2023
 
-<ol start="7">
+<ol start="9">
 <li>Zhu, X., Chan, S., Yao, Y., & <strong>Zhu, S.*</strong> (corresponding author). (2023). The different effects of the ideal L2 self and intrinsic motivation on reading performance via engagement among young Chinese second-language learners. <em>International Review of Applied Linguistics in Language Teaching (IRAL)</em>. <span style="color: blue;">[SSCI, Q1, IF = 2.1]</span> <a href="https://doi.org/10.1515/iral-2022-0189">https://doi.org/10.1515/iral-2022-0189</a></li>
 
 <li>Zhu, X., Yao, Y., Pang, W., & <strong>Zhu, S.*</strong> (corresponding author). (2023). Investigating the relationship between linguistic competence, ideal self, learning engagement, and integrated writing performance: A structural equation modeling approach. <em>Journal of Psycholinguistic Research</em>, <em>52</em>, 787–808. <span style="color: blue;">[SSCI, Q2, IF = 1.7]</span> <a href="https://doi.org/10.1007/s10936-023-09947-4">https://doi.org/10.1007/s10936-023-09947-4</a></li>
 
-<li>Zhu, X., Liu, Y., <strong>Zhu, S.*</strong> (corresponding author). (2025). An empirical study on the construct of high school students' integrated writing ability. <em>China Examinations</em>, <em>4</em>, 60–72. <span style="color: blue;">[CSSCI Extension]</span></li>
-
-<li>Zhu, X., Chan, S., <strong>Zhu, S.*</strong> (corresponding author). (2025). Differences between L1 and L2 integrated writing tasks in international Chinese examinations: A directed content analysis. <em>Journal of Chinese Language Education</em>, <em>20</em>(1), 54–81. <span style="color: blue;">[CSSCI Oversea]</span></li>
 </ol>
+
 
 ### Conference Papers
 
